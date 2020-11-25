@@ -81,7 +81,7 @@ function draw() {
       trex.velocityY = -12;
     }
 
-    camera.position.x = displayWidth/2;
+    //camera.position.x = displayWidth/2;
     camera.position.y = trex.y;
   
     trex.velocityY = trex.velocityY + 0.8
